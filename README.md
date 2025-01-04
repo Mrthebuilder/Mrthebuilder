@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on many things
 - 📫 How to reach me rdanderand@icloud.com
 - 😄 Pronouns:he/him
-- ⚡ Fun fact: lerning is fun
+- ⚡ Fun fact: learning is fun!
 
 <!---
 Mrthebuilder/Mrthebuilder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
